@@ -24,16 +24,16 @@ Follow the question prompts to begin completing the quiz.
   - Becca Steinbrecher (GitHub: [beccajoy](https://github.com/beccajoy))
 
 ## Learning Goals
-	- Contribute code to a partially constructed object-oriented application
-	- Follow spec/prompts to make a working application
-	- Implement ES6 classes
-	- Write modular, reusable code that follows SRP (Single Responsibility Principle)
-	- Implement a robust testing suite using TDD
+- Contribute code to a partially constructed object-oriented application
+- Follow spec/prompts to make a working application
+- Implement ES6 classes
+- Write modular, reusable code that follows SRP (Single Responsibility Principle)
+- Implement a robust testing suite using TDD
 
 ### Wins
-	- Gaining more familiarity with Chai assertion library in the test suite.
-	- Building an object-orientated application. I'm happy with the strides in Class organization I made in this project.
+- Gaining more familiarity with Chai assertion library in the test suite.
+- Building an object-orientated application. I'm happy with the strides in Class organization I made in this project.
 
 ### Challenges
-	- Ran out of time to further refine the testing suite. Meant to write more "sad path" tests on the Round class, but ultimately did not have enough time.
-	- Slow start; difficult to conceptualize what the data manipulation goals were without a user interface to easily visualize the JavaScript logic in action.
+- Ran out of time to further refine the testing suite. Meant to write more "sad path" tests on the Round class, but ultimately did not have enough time.
+- Slow start; difficult to conceptualize what the data manipulation goals were without a user interface to easily visualize the JavaScript logic in action.
